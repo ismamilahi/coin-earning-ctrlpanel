@@ -1,6 +1,6 @@
 @extends('layouts.main')
 @section('content')
-<link href="{{ asset('css/styles.css') }}" rel="stylesheet">
+<link href="{{ asset('css/earn-styles.css') }}" rel="stylesheet">
 
 
 
